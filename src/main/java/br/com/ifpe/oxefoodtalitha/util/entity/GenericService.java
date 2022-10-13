@@ -1,7 +1,6 @@
 package br.com.ifpe.oxefoodtalitha.util.entity;
 
 import java.time.LocalDate;
-
 import br.com.ifpe.oxefoodtalitha.util.exception.PreenchimentoException;
 
 public abstract class GenericService {
