@@ -43,6 +43,5 @@ public class CategoriaProduto extends EntidadeAuditavel {
 
     public void updateFrom(CategoriaProduto param) {
     this.setDescricao(param.getDescricao());
-    }
-}
+    }}
 
